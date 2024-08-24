@@ -1,0 +1,30 @@
+.cont{
+    display: flex;
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+.net-1{
+ background-color:#092272 ;
+}
+.net-2{
+    background-color: #092272;
+}
+.nav-link{
+    color: white
+}
+.sunset{
+   justify-content: center;
+    
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.sun{
+   text-align: center;
+}
+.footer{
+    background-color: #092272 ;
+}
